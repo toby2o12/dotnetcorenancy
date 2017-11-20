@@ -1,0 +1,11 @@
+D:\git\dotnetcorenancy\obj\Debug\netcoreapp2.0\dotnetcorenancy.csprojResolveAssemblyReference.cache
+D:\git\dotnetcorenancy\obj\Debug\netcoreapp2.0\dotnetcorenancy.csproj.CoreCompileInputs.cache
+D:\git\dotnetcorenancy\obj\Debug\netcoreapp2.0\dotnetcorenancy.AssemblyInfoInputs.cache
+D:\git\dotnetcorenancy\obj\Debug\netcoreapp2.0\dotnetcorenancy.AssemblyInfo.cs
+D:\git\dotnetcorenancy\bin\Debug\netcoreapp2.0\dotnetcorenancy.deps.json
+D:\git\dotnetcorenancy\bin\Debug\netcoreapp2.0\dotnetcorenancy.runtimeconfig.json
+D:\git\dotnetcorenancy\bin\Debug\netcoreapp2.0\dotnetcorenancy.runtimeconfig.dev.json
+D:\git\dotnetcorenancy\bin\Debug\netcoreapp2.0\dotnetcorenancy.dll
+D:\git\dotnetcorenancy\bin\Debug\netcoreapp2.0\dotnetcorenancy.pdb
+D:\git\dotnetcorenancy\obj\Debug\netcoreapp2.0\dotnetcorenancy.dll
+D:\git\dotnetcorenancy\obj\Debug\netcoreapp2.0\dotnetcorenancy.pdb
