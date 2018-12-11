@@ -2,3 +2,7 @@
 /src/tests/XUnitTestProject1/bin
 /src/Service/obj
 /src/tests/XUnitTestProject1/obj
+src/tests/benchmark/dotnet.benmark/bin
+src/tests/benchmark/dotnet.benmark/obj
+src/tests/benchmark/dotnet.benmark/BenchmarkDotNet.Artifacts
+src/tests/benchmark/.DS_Store
